@@ -1,0 +1,8 @@
+# Ignora as pastas de dependências
+node_modules/
+
+# Ignora logs e arquivos temporários de React Native/Expo
+.expo/
+build/
+dist/
+temp/
